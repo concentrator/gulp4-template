@@ -1,7 +1,7 @@
 {
-  "name": "template",
+  "name": "boilerplate",
   "private": true,
-  "description": "Gulp 4 шаблон автоматизации",
+  "description": "Gulp 4 SCSS boilerplate",
   "devDependencies": {
     "@htmlacademy/editorconfig-cli": "1.0.0",
     "autoprefixer": "^10.0.2",

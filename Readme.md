@@ -1,1 +1,1 @@
-# Шаблон сборки SCSS на Gulp 4
+# Gulp 4 SCSS boilerplate 
